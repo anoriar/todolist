@@ -3,9 +3,9 @@
 Инструкция по запуску:
 Установить Node.js с пакетным менеджером npm
 В корневой папке проекта:
-	npm install
-	npm start
-Перейти на http://localhost:4200/
+	`npm install`
+	`npm start`
+Перейти на `http://localhost:4200/`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
